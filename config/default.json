@@ -1,0 +1,6 @@
+{
+  "mongo": {
+    "uri": "mongodb+srv://Paim:Gabyluiz28*@cluster0.npcwa.mongodb.net/livro_nodejs?retryWrites=true&w=majority/test"
+  },
+  "jwtTokenSecret": "Death Star"
+}
